@@ -44,7 +44,7 @@ During my junior year, I built a Beowulf cluster that caught Microsoft's attenti
 
 **Given the diversity of my experiences over time, I've kept it high level for this abstract.   There's a lot left out, if you have questions, please ask.**
 
-While at Microsoft, I ran a foster care group home for at-risk youth facing institutionalization. When two indigenous children lost their mother, I became their guardian - notably becoming the first white person granted guardianship from that tribal community since the Indian Child Welfare Act's passage. Adapting to teenage parenthood before 30 was challenging - but worth it.
+While at Microsoft, I ran a foster care group home for at-risk youth facing institutionalization. When two indigenous children lost their mother, I became their guardian - notably becoming the first white person granted guardianship from that tribal community since the Indian Child Welfare Act's passage. Adapting to becoming a parent of teenage girls before the age of 30 was challenging - but worth it.
 
 I also built out the first Xbox multiplayer automation farm, contributed to a significant number of networking patents,  taught classes on pairwise combinatorics, and led a large distributed team of 70 people - engineers, project managers, testers, and support staff - for the Asheron's Call massively multiplayer game franchise.  If you read this, and you played, let me know.  It's (almost) always fun to hear from those folks.
 
